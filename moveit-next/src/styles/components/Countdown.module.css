@@ -45,7 +45,6 @@
     border-radius: 5px;
     background: var(--blue);
     color: var(--white);
-    outline: none;
     font-size: 1.25rem;
     font-weight: 600;
     transition: background-color 0.2s;
